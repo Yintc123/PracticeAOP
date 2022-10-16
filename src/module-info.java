@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Yin
+ *
+ */
+module AOPpractice {
+}
